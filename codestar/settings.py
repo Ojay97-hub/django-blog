@@ -34,6 +34,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['8000-ojay97hub-djangoblog-fl7zp8nbwc1.ws.codeinstitute-ide.net',
                  '.herokuapp.com']
 
+# added a secret key 
 
 # Application definition
 
